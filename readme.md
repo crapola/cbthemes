@@ -1,0 +1,1 @@
+C++ Syntax highlighting color themes for Code::Blocks
